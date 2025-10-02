@@ -2,21 +2,11 @@
 Using the TheLook Ecommerce dataset, this project analyzes China’s ecommerce performance (2019–2023) with a focus on sales growth, customer behavior, and product returns.
 
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+TheLook is a global online fashion retailer, established in the late 2010s, offering clothing, accessories, and lifestyle products through a B2C e-commerce model. From 2019 to 2023, the company records China as its major growth market, marked by rapid revenue expansion alongside challenges such as high return rates and fluctuating customer retention. As part of the Data Analytics team, I was tasked with analyzing sales, product categories, brands, retention, customer behaviors, and returns to generate insights that support sustainable business growth
 
-Insights and recommendations are provided on the following key areas:
+The Python script used to inspect, clean, and analyze the data for this report can be found here [link](https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/TheLook-China-Analytics.ipynb).
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
-
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
+# Executive Summary
 
 
 # Data Structure & Initial Checks
