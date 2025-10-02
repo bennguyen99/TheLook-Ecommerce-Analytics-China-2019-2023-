@@ -79,8 +79,9 @@ TheLook Ecommerce Dataset ERD
   * **Male Adults and Middle-Aged** customers are **more represented in At-Risk VIP/Potential**, with 313 and 417 customers, respectively.
 
 <p align="center">
+  <img alt="RFM Analysis" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/RFM%20Summary.png" width="90%" />
   <img alt="Customer Segments" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Customer%20Segments.png" width="45%" />
-  <img alt="Customer Segments by Age Group and Gender" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Customer%20Segments%20by%20Age%20Group%20and%20Gender.png" width="45%"
+  <img alt="Customer Segments by Age Group and Gender" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Customer%20Segments%20by%20Age%20Group%20and%20Gender.png" width="45%">
 </p>
  
 * **Market Basket Analysis**
@@ -94,7 +95,11 @@ TheLook Ecommerce Dataset ERD
 * **Retention**
   * The company was **effective in acquiring new customers** but **struggled to retain** them, as only 67 of 1,091 buyers made a repeat purchase after Q3 2023.
   * **Churn remains critically high *(60–85%)***, with **returns driving *20–33%*** —a major risk to stability.
-  
+
+<p align="center">
+  <img alt="Cohort Chart" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Cohort%20Chart.png" width="45%" />
+  <img alt="Churn due to Returns" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Churn%20due%20to%20Returns.png" width="45%" />
+</p>
 
 ### Product Returns Analysis:
 
@@ -106,32 +111,60 @@ TheLook Ecommerce Dataset ERD
 
  * Speeding up delivery time is unlikely to reduce the Order Returned Rate, as these two numbers have a negative correlation of -0.503
 
-[Visualization specific to category 4]
+<p align="center">
+  <img alt="Returns Contribution - category" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/RR%20Contribution%20-%20category.png" width="45%" />
+  <img alt="RR above average - category" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Above%20average%20RR%20-%20category.png" width="45%" />
+</p>
 
+<p align="center">
+  <img alt="Returns Contribution - state" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/RR%20Contribution%20-%20state.png" width="45%" />
+  <img alt="RR above average - state" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Above%20average%20RR%20-%20state.png" width="45%" />
+</p>
 
+<p align="center">
+  <img alt="Delivery Time Comparison" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Delivery%20Time%20comparison.png" width="45%" />
+  <img alt="Deli vs Returns Correlation" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Deli%20vs%20Returns%20Correlation.png" width="45%" />
+</p>
 
 # Recommendations:
-
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
+### Sales Department
+* Top 13 categories = ~80% revenue → focus on top 6–8 (50–60%) for growth & sustainability.
+ 
+* Clothing Sets, Jumpsuits & Rompers, and Socks & Hosiery are 3 categories with low revenue contribution (1% <), and they either have high return rates or low margins⟶ Discard or reduce exposure.
 
+* Diesel, Calvin Klein, and 7 For All Mankind are climbing up ⟶ Promote as Key Brands in 2024
+  
+* Reassess declining brands (Carhartt & Tommy Hilfiger)
+
+### Marketing Department
+* Promote Key Categories & Key Brands during Q4 to maximize revenue.
+* Boost/generate campaigns and promotions from Wednesday to Friday as sales peak on Thursday and Friday.
+* Shift budget to retention flows: welcome offers, second-purchase coupons, winback.
+  * Create a loyalty conversion funnel to convert “At-risk VIP” to “Loyal Customers”.
+  * Target “Potential” customers with personalized campaigns.
+  * “Price Sensitive”: Switch from discount to loyalty points + bundles to protect margin ⟶ promote retention
+
+### Product Department:
+* Extend product lines around sustained winners; test new variants.
+  * Key Categories: Outerwear & Coats, Jeans, Sweaters, Suits & Sport Coats, Hoodies, Swim
+  * Key Brands: Diesel, 7 for All Mankind, Calvin Klein, Ray Ban
+* Reduce assortment to weak categories (Clothing Sets, Socks & Hosiery with high returns) to minimize refunds and protect margin.
+* Develop 3–5 category bundles (e.g: Blazers+Maternity, Jackets + Leggings, Suits+Socks, Dresses + Pants, etc.)
+* Focus on fit-sensitive categories (Intimates, Jeans, Swim, Sweaters, Outerwear, Active)
+* Prioritize 3 key states: Guangdong, Beijing, and Jiangsu with targeted return-reduction trial programs such as better sizing info, local customer service (local CS), and faster exchanges.
 
 # Assumptions and Caveats:
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+* Analysis restricted to China subset of TheLook dataset (2019–2023).
+
+* Net Sales used for most analyses; Gross Sales only for annual-level overview.
+
+* Traffic source = registration source, purchase source is located in the events table.
+
+* Events table excluded: lack of order_id joinability prevents Customer Journey mapping.
+
+* Missing values (e.g, city, product_name) excluded since not material to business questions.
