@@ -24,11 +24,17 @@ TheLook Ecommerce Dataset ERD
 # Insights Deep Dive
 ### Time-series Analysis:
 
-* Gross sales grew consistently, peaking in 2023 at $627.3K, nearly 2.5× growth vs. 2022.
+* **Gross sales grew consistently**, peaking in 2023 at $627.3K, nearly 2.5× growth vs. 2022.
 
-* Seasonality is strong: Q4 contributes 30–35% of annual revenue.
+* **Seasonality is strong:** Q4 contributes 30–35% of annual revenue.
 
-* Weekly analysis: Thursdays and Fridays drive peak revenue, while Wednesdays consistently underperform.
+* **Weekly analysis:**
+
+  * Thursdays and Fridays drive peak revenue, while Wednesdays consistently underperform.
+
+  * Adults + Elderly concentrates on Thursday
+
+  * Middle-aged + Youth concentrates on Friday 
 
 <p align="center">
   <img alt="Yearly Sales Trend" src="https://github.com/user-attachments/assets/ee435ec5-69b3-4361-9708-30fd1b7defb5" width="45%" />
@@ -39,7 +45,7 @@ TheLook Ecommerce Dataset ERD
   <img alt="Weekly Sales Trend by Age Group" src="https://github.com/user-attachments/assets/fe0a987c-4ac6-4c5f-9603-f56cb9d3ecda" width="45%" />
 </p>
 
-### Category 2:
+### Product Analysis:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
