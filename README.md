@@ -69,30 +69,32 @@ TheLook Ecommerce Dataset ERD
   * Carhart and Tommy Hilfiger have persistently underperformed relative to the average, achieving only 35%–75%  growth rate.
 
 <p align="center">
-  <img alt="Yearly Sales Trend" src="https://github.com/user-attachments/assets/ee435ec5-69b3-4361-9708-30fd1b7defb5" width="45%" />
-  <img alt="Quarterly Sales Trend" src="https://github.com/user-attachments/assets/f5cc81cc-9232-4d1e-8087-085f122272fd" width="45%" />
-</p>
-<p align="center">
-  <img alt="Weekly Sales Trend" src="https://github.com/user-attachments/assets/ccb0b8f5-358d-4026-8444-3c11fcf05e5d" width="45%" />
-  <img alt="Weekly Sales Trend by Age Group" src="https://github.com/user-attachments/assets/fe0a987c-4ac6-4c5f-9603-f56cb9d3ecda" width="45%" />
+  <img alt="Sales by Brand" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Sales%20by%20Brand.png" width="90%" />
 </p>
 
 ### Customer Analysis:
 
 * **RFM Segmentation**:
- * **Price Sensitive dominates across all demographics**, with more than 700 buyers in each age group and over 1,500 buyers in each gender group
- * **Male Adults and Middle-Aged** customers are **more represented in At-Risk VIP/Potential**, with 313 and 417 customers, respectively.
-  
-* **Market Basket Analysis**
- * Woman Bundles: *Blazers & Jackets + Maternity/Leggings* are very likely to be bought together in an order (records a lift score of 2.0)
- * Man Bundles: *Suits & Sport Coats + Socks* have a high lift score of 1.77
-  
-* **Retention**
- * The company was **effective in acquiring new customers** but **struggled to retain** them, as only 67 of 1,091 buyers made a repeat purchase after Q3 2023.
- * **Churn remains critically high *(60–85%)***, with **returns driving *20–33%*** —a major risk to stability.
-  
-[Visualization specific to category 3]
+  * **Price Sensitive dominates across all demographics**, with more than 700 buyers in each age group and over 1,500 buyers in each gender group
+  * **Male Adults and Middle-Aged** customers are **more represented in At-Risk VIP/Potential**, with 313 and 417 customers, respectively.
 
+<p align="center">
+  <img alt="Customer Segments" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Customer%20Segments.png" width="45%" />
+  <img alt="Customer Segments by Age Group and Gender" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Customer%20Segments%20by%20Age%20Group%20and%20Gender.png" width="45%"
+</p>
+ 
+* **Market Basket Analysis**
+  * Woman Bundles: *Blazers & Jackets + Maternity/Leggings* are very likely to be bought together in an order (records a lift score of 2.0)
+  * Man Bundles: *Suits & Sport Coats + Socks* have a high lift score of 1.77
+
+<p align="center">
+  <img alt="Market Basket Analysis" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Market%20Basket%20Analysis.png" width="90%" />
+</p>
+
+* **Retention**
+  * The company was **effective in acquiring new customers** but **struggled to retain** them, as only 67 of 1,091 buyers made a repeat purchase after Q3 2023.
+  * **Churn remains critically high *(60–85%)***, with **returns driving *20–33%*** —a major risk to stability.
+  
 
 ### Product Returns Analysis:
 
