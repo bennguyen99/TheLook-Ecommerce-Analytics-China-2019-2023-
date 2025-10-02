@@ -57,7 +57,7 @@ TheLook Ecommerce Dataset ERD
   * **Order return rate** is **high** across all product categories, at about 30%.
 
 <p align="center">
-  <img alt="Sales by Category" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Sales%20by%20Category.png" width="90%" />
+  <img alt="Sales by Category" src="https://raw.githubusercontent.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/refs/heads/main/Visualizations/Sales%20by%20Category.png" width="90%" />
 </p>
 
 * **Brand level**:
@@ -88,7 +88,7 @@ TheLook Ecommerce Dataset ERD
   * Man Bundles: *Suits & Sport Coats + Socks* have a high lift score of 1.77
 
 <p align="center">
-  <img alt="Market Basket Analysis" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Market%20Basket%20Analysis.png" width="90%" />
+  <img alt="Market Basket Analysis" src="https://raw.githubusercontent.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/refs/heads/main/Visualizations/Market%20Basket%20Analysis.png" width="90%" />
 </p>
 
 * **Retention**
