@@ -15,7 +15,6 @@ TheLook China’s sales grew more than 25× between 2019 and 2023, with Q4 consi
 
 In conclusion, the business's retention remains weak despite strong acquisitions, leaving it under margin pressure and reliant on new customers to sustain growth.
 
-
 <img width="809" height="1021" alt="image" src="https://github.com/user-attachments/assets/af6e9a9f-d9c0-49d0-a8d9-f1798aea4107" />
 
 
@@ -47,31 +46,44 @@ TheLook Ecommerce Dataset ERD
 
 ### Product Analysis:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Category level**:
 
-[Visualization specific to category 2]
+ * Top 6 categories (*Outerwear & Coats, Jeans, Suits & Sport Coats, Sweaters, Hoodies, Swim*) contribute 50% of revenue.
 
+ * **Suits & Sport Coats:** high margin but declining sales.
 
-### Category 3:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+ * **Clothing Sets:** lowest revenue contribution and highest return rates → poor product-market fit.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+ * **Order return rate** is **high** across all product categories, at about 30%.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Brand level**:
+  
+ * Sales growth was highly concentrated in a handful of brands (e.g., Diesel, 7 For All Mankind, True Religion, Carhartt).
+
+ * Columbia moved sharply upward by 28 ranks, boasting an immense growth rate of 400%; 
+
+ * Carhart and Tommy Hilfiger have persistently underperformed relative to the average, achieving only 35%–75%  growth rate.
+
+### Customer Analysis:
+
+* **RFM Segmentation**:
+ * Price Sensitive dominates across all demographics, with more than 700 buyers in each age group and over 1,500 buyers in each gender group
+ * Male Adults and Middle-Aged customers are more represented in At-Risk VIP/Potential, with 313 and 417 customers, respectively.
+  
+* **Market Basket Analysis**
+ * Woman Bundles: *Blazers & Jackets + Maternity/Leggings* are very likely to be bought together in an order (records a lift score of 2.0)
+ * Man Bundles: *Suits & Sport Coats + Socks* have a high lift score of 1.77
+  
+* **Retention**
+ * The company was effective in acquiring new customers but struggled to retain them, as only 67 of 1,091 buyers made a repeat purchase after Q3 2023.
+ * Churn remains critically high (60–85%), with returns driving 20–33%—a major risk to stability.
   
 * **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 3]
 
 
-### Category 4:
+### Product Returns Analysis:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
