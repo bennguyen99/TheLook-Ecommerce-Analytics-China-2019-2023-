@@ -57,7 +57,7 @@ TheLook Ecommerce Dataset ERD
   * **Order return rate** is **high** across all product categories, at about 30%.
 
 <p align="center">
-  <img alt="Sales by Category" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Sales%20by%20Category.png" width="45%" />
+  <img alt="Sales by Category" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Sales%20by%20Category.png" width="90%" />
 </p>
 
 * **Brand level**:
