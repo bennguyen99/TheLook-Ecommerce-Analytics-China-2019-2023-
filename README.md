@@ -48,21 +48,34 @@ TheLook Ecommerce Dataset ERD
 
 * **Category level**:
 
- * Top 6 categories (*Outerwear & Coats, Jeans, Suits & Sport Coats, Sweaters, Hoodies, Swim*) contribute 50% of revenue.
+  * Top 6 categories (*Outerwear & Coats, Jeans, Suits & Sport Coats, Sweaters, Hoodies, Swim*) contribute 50% of revenue.
 
- * **Suits & Sport Coats:** high margin but declining sales.
+  * **Suits & Sport Coats:** high margin but declining sales.
 
- * **Clothing Sets:** lowest revenue contribution and highest return rates → poor product-market fit.
+  * **Clothing Sets:** lowest revenue contribution and highest return rates → poor product-market fit.
   
- * **Order return rate** is **high** across all product categories, at about 30%.
-  
+  * **Order return rate** is **high** across all product categories, at about 30%.
+
+<p align="center">
+  <img alt="Sales by Category" src="https://github.com/bennguyen99/TheLook-Ecommerce-Analytics-China-2019-2023-/blob/main/Visualizations/Sales%20by%20Category.png" width="45%" />
+</p>
+
 * **Brand level**:
   
- * Sales growth was highly concentrated in a handful of brands (e.g., Diesel, 7 For All Mankind, True Religion, Carhartt).
+  * Sales growth was highly concentrated in a handful of brands (e.g., Diesel, 7 For All Mankind, True Religion, Carhartt).
 
- * Columbia moved sharply upward by 28 ranks, boasting an immense growth rate of 400%; 
+  * Columbia moved sharply upward by 28 ranks, boasting an immense growth rate of 400%; 
 
- * Carhart and Tommy Hilfiger have persistently underperformed relative to the average, achieving only 35%–75%  growth rate.
+  * Carhart and Tommy Hilfiger have persistently underperformed relative to the average, achieving only 35%–75%  growth rate.
+
+<p align="center">
+  <img alt="Yearly Sales Trend" src="https://github.com/user-attachments/assets/ee435ec5-69b3-4361-9708-30fd1b7defb5" width="45%" />
+  <img alt="Quarterly Sales Trend" src="https://github.com/user-attachments/assets/f5cc81cc-9232-4d1e-8087-085f122272fd" width="45%" />
+</p>
+<p align="center">
+  <img alt="Weekly Sales Trend" src="https://github.com/user-attachments/assets/ccb0b8f5-358d-4026-8444-3c11fcf05e5d" width="45%" />
+  <img alt="Weekly Sales Trend by Age Group" src="https://github.com/user-attachments/assets/fe0a987c-4ac6-4c5f-9603-f56cb9d3ecda" width="45%" />
+</p>
 
 ### Customer Analysis:
 
@@ -83,13 +96,13 @@ TheLook Ecommerce Dataset ERD
 
 ### Product Returns Analysis:
 
- * Average return rate: 28.3%.
+ * **Average return rate:** 28.3%.
 
- * Categories with both high contribution and above-average return rates: Intimates (29.1%), Jeans (29.3%), Outerwear (29.9%).
+ * Categories with both high contribution and above-average return rates: *(Intimates: 7.4% - 29.13%, Jeans: 7.2% - 29.28%, Swim: 6.6% - 29.48 %, Sweaters: 6.4% - 28.78%, Outerwear & Coats: 5.4% - 29.95%, Active: 5.2% - 28.80%)*.
 
- * States with the highest return risks: Guangdong, Beijing, Jiangsu.
+ * States with both high contribution and above-average return rates: *Guangdong: 15.6% - 28.9%, Beijing: 6.9% - 29.67%, Jiangsu: 5.8% - 29.85%*.
 
- * Delivery time shows no impact on return rates, pointing to fit/quality issues as primary drivers.
+ * Speeding up delivery time is unlikely to reduce the Order Returned Rate, as these two numbers have a negative correlation of -0.503
 
 [Visualization specific to category 4]
 
