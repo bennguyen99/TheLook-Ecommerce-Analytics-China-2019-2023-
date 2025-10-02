@@ -67,31 +67,29 @@ TheLook Ecommerce Dataset ERD
 ### Customer Analysis:
 
 * **RFM Segmentation**:
- * Price Sensitive dominates across all demographics, with more than 700 buyers in each age group and over 1,500 buyers in each gender group
- * Male Adults and Middle-Aged customers are more represented in At-Risk VIP/Potential, with 313 and 417 customers, respectively.
+ * **Price Sensitive dominates across all demographics**, with more than 700 buyers in each age group and over 1,500 buyers in each gender group
+ * **Male Adults and Middle-Aged** customers are **more represented in At-Risk VIP/Potential**, with 313 and 417 customers, respectively.
   
 * **Market Basket Analysis**
  * Woman Bundles: *Blazers & Jackets + Maternity/Leggings* are very likely to be bought together in an order (records a lift score of 2.0)
  * Man Bundles: *Suits & Sport Coats + Socks* have a high lift score of 1.77
   
 * **Retention**
- * The company was effective in acquiring new customers but struggled to retain them, as only 67 of 1,091 buyers made a repeat purchase after Q3 2023.
- * Churn remains critically high (60–85%), with returns driving 20–33%—a major risk to stability.
+ * The company was **effective in acquiring new customers** but **struggled to retain** them, as only 67 of 1,091 buyers made a repeat purchase after Q3 2023.
+ * **Churn remains critically high *(60–85%)***, with **returns driving *20–33%*** —a major risk to stability.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
 [Visualization specific to category 3]
 
 
 ### Product Returns Analysis:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+ * Average return rate: 28.3%.
+
+ * Categories with both high contribution and above-average return rates: Intimates (29.1%), Jeans (29.3%), Outerwear (29.9%).
+
+ * States with the highest return risks: Guangdong, Beijing, Jiangsu.
+
+ * Delivery time shows no impact on return rates, pointing to fit/quality issues as primary drivers.
 
 [Visualization specific to category 4]
 
